@@ -1,0 +1,19 @@
+.fab, .fas {
+    font-size: 60px;
+    margin: 0 50px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.fab:hover, .fas:hover {
+    filter: drop-shadow( 20px 20px 10px black);
+}
+.fa-linkedin:hover{
+    color:#2977b5;
+}
+.fa-phone:hover{
+    color:#65c20d;  
+}
+.fa-at:hover{
+    color:#c2c10d;
+}
